@@ -12,6 +12,12 @@ How to work with:
 - Styling
 - Navigation
 - App-wide state management
+- Handling User Input
+  - Custom input components
+  - Creating a form
+  - Validation
+
+![Rick and Morty](https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif)
 
 ### Using:
 - [Expo](https://docs.expo.dev/)
