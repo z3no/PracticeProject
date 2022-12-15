@@ -13,9 +13,10 @@ How to work with:
 - Navigation
 - App-wide state management
 - Handling User Input
-  - Custom input components
-  - Creating a form
-  - Validation
+  - Fetching & validating user input
+    - Working with TextInput
+    - Validating user input & providing feedback
+    - User input & components
 
 ![Rick and Morty](https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif)
 
