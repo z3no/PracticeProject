@@ -32,3 +32,4 @@ How to work with:
     - [Native Stack Navigator](https://reactnavigation.org/docs/native-stack-navigator)
     - [Bottom Tabs Navigator](https://reactnavigation.org/docs/bottom-tab-navigator)
 - [Ionicons](https://docs.expo.dev/guides/icons/)
+- [Axios](https://axios-http.com/docs/intro)
