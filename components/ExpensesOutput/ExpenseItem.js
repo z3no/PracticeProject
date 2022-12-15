@@ -59,6 +59,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginBottom: 4,
     fontWeight: "bold",
+    maxWidth: 240,
   },
   amountContainer: {
     paddingHorizontal: 12,
@@ -68,6 +69,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     borderRadius: 4,
     minWidth: 80,
+    maxHeight: 45,
   },
   amount: {
     color: GlobalStyles.colors.primary500,
