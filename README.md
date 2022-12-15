@@ -17,6 +17,11 @@ How to work with:
     - Working with TextInput
     - Validating user input & providing feedback
     - User input & components
+- Sending Http Requests
+  - Connecting a Backend & working with remote data
+    - Setting up a dummy backend (Firebase)
+    - Sending Http requests
+    - Handling Loading & Error states
 
 ![Rick and Morty](https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif)
 
